@@ -1,0 +1,5 @@
+# Ignore datasets, templates and local images
+lab7/*
+!lab7/Task-7.ipynb
+lab6/img.jpeg
+lab5/*.JPG
